@@ -1,0 +1,3 @@
+Estado del sistema: Activo
+Estado del sistema: Inactivo
+Estado del sistema: Activo
