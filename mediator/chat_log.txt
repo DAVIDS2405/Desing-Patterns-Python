@@ -1,0 +1,7 @@
+Hello, everyone!
+Hi, Alice!
+Hey, Alice and Bob!
+Hello, everyone!
+Hi, Alice!
+Hey, Alice and Bob!
+This is a log message.
