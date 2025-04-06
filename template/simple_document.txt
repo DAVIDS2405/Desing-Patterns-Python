@@ -1,0 +1,5 @@
+Header: Simple Document
+
+This is a simple document content.
+
+Footer: Simple Document
